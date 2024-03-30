@@ -1,0 +1,127 @@
+{
+    "common": {
+        "mainPage": "Home",
+        "showInteractiveMap": "Show Interactive Map",
+        "projects": "projects",
+        "backToSite": "Back to main site",
+        "chooseCity": "Select City ",
+        "viewProject": "View Project",
+        "unit": "Unit",
+        "bedrooms": "Bedrooms",
+        "landArea": "Land Area",
+        "landFlat": "Land Flat",
+        "backToCountry": "Back to Country",
+        "noProjects": "No Projects",
+        "mainLandmarks": "Main Landmarks"
+    },
+    "navbar": {
+        "projects": "projects",
+        "interactiveMap": "Interactive Map ",
+        "about": "About",
+        "news": "News",
+        "english": "العربية",
+        "login": "Login",
+        "contact": "Contact Us",
+        "auctions": "auctions",
+        "contractingCompany": "Contracting Company"
+    },
+    "footer": {
+        "about": "About",
+        "contact": "Contact Us",
+        "terms": "Terms and Conditions",
+        "projects": "Projects",
+        "interactiveMap": "Interactive Map",
+        "info": "At Aceem Company, we seek to achieve leadership and excellence by providing our services in the market on the basis of customer satisfaction and completing the projects entrusted to us with high quality.",
+        "importantLinks": "Important Links",
+        "copyRights": "All rights reserved to Aceem Company",
+        "phone": "920034445",
+        "email": "info@aceem.com",
+        "website": "www.aceem.com",
+        "address": "الرياض, شارع الملك عبدالعزيز, حي الغدير",
+        "auctions": "Auctions",
+        "contractingCompany": "Contracting Company"
+    },
+    "home": {
+        "title": "Home Page",
+        "changeLanguage": "Change Language",
+        "aboutSection": {
+            "title": "About Aceem",
+            "description": "At Aceem Company, we seek to achieve leadership and excellence by providing our services in the market on the basis of customer satisfaction and completing the projects entrusted to us with high quality.",
+            "readMore": "Read More"
+        },
+        "projectsSection": {
+            "title": "Our Projects",
+            "description": "We showcase our distinctive and unique projects",
+            "readMore": "View Projects"
+        },
+        "achievementsSection": {
+            "title": "Our Achievements"
+        },
+        "newsSection": {
+            "title": "Aceem News",
+            "description": "We provide you with the latest news and updates"
+        },
+        "mobileSection": {
+            "title": "Aceem App",
+            "description": "The Aceem application helps owners and managers control their properties and request various services such as maintenance requests, coordinating inspection appointments, and other services."
+        },
+        "partnersSection": {
+            "title": "Our Partners",
+            "description": "We are proud to have strong partnerships with the best companies in the field"
+        }
+    },
+    "about": {
+        "title": "About Us",
+        "companyInfo": {
+            "title": "About Aceem",
+            "description1": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "description2": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "ceoMessage": {
+            "title": "CEO Message",
+            "description": "At Aceem Company, we seek to achieve leadership and excellence by providing our services in the market on the basis of customer satisfaction and completing the projects entrusted to us with high quality and delivering them on time. We believe that we have a great responsibility towards our dear homeland, and what we have achieved today is the beginning of another great breakthrough in the size of our ambitions and aspirations to keep pace with it. The current and future market needs to be a real addition to the ambitious economic development that the government of the Custodian of the Two Holy Mosques seeks through the Kingdom’s Vision 2030."
+        },
+        "certificates": {
+            "title": "Certificates"
+        },
+        "supplyChain": {
+            "title": "Supply Chain"
+        },
+        "afterSaleServices": {
+            "title": "After Sale Services"
+        }
+    },
+    "projects": {
+        "title": "Our Projects"
+    },
+    "news": {
+        "title": "News & Events"
+    },
+    "newsDetails": {
+        "anotherNews": "Other News"
+    },
+    "projectDetails": {
+        "info": {
+            "title": "About Project",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "projectGallery": {
+            "title": "Project Gallery"
+        }
+    },
+    "contactUs": {
+        "title": "Contact Us",
+        "form": {
+            "title": "Contact Us",
+            "name": "Name",
+            "email": "Email",
+            "phone": "Phone",
+            "subject": "Subject",
+            "message": "Message",
+            "send": "Send"
+        },
+        "info": {
+            "title": "Contact Information"
+        }
+    }
+}

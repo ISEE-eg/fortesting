@@ -1,0 +1,18 @@
+.news-dot-list-style {
+    width: 50%;
+    margin: 0 auto !important;
+    position: relative !important;
+}
+
+.header-dot-list-style {
+    width: 45%;
+    left: 50px !important;
+}
+
+.header-dot-list-style.ar {
+    right: 50px !important;
+}
+
+.project-details .react-multi-carousel-track {
+    gap: 10px;
+}
